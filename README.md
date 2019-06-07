@@ -1,2 +1,3 @@
 # -hello-world
-zhanghaokaitongri
+
+I'm learning javascript;this is hard;
